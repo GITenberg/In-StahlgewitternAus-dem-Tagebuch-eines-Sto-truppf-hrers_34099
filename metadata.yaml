@@ -19,6 +19,8 @@ description: "Storm of Steel (in German: In Stahlgewittern) is the memoir of Ger
   \ accounts to be published. The book is a graphic account of trench warfare. It\
   \ was largely devoid of editorialization when first published, but was heavily revised\
   \ several times.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34099#In-StahlgewitternAus-dem-Tagebuch-eines-Sto-truppf-hrers
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2010-10-19'
 gutenberg_type: Text
